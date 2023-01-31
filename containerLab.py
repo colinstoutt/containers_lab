@@ -59,11 +59,6 @@ for idx, student in enumerate(students):
     
 print(cohort)
 
-
-# cohort = []
-# for student in cohort:
-#     cohort.append[{}]
-
 # Exercise 7
 # Using the list of students and list comprehension, assign to a variable named awesome_students a new list containing strings similar to this:
 # ["Tina is awesome!", "Fred is awesome!", "Wilma is awesome!"]
